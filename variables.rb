@@ -4,3 +4,6 @@ location = "Puerto Escondido, Mexico"
 age = 32
 weight = 76 
 address_of_birth = 2805
+ppg_average = 32.6
+record_average = 33.5 
+missing = 0.9
