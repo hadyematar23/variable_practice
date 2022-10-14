@@ -10,3 +10,9 @@ missing = 0.9
 jordan_best = true
 kobe_better = false
 lebron_better = false
+name = "Michael Jordan"
+last_name = "World's Greatest"
+location = "Chicago, Illinois"
+puts name 
+puts ppg_average
+puts weight 
